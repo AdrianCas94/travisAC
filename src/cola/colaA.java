@@ -60,7 +60,7 @@ class ColaArreglo{
 	public Object Avanzar(){
             Object dato=null;
 		if(VaciaCola())
-			System.out.println("No hay Elementos");
+			System.out.println("potro");
 		else{
                     dato=ArregloCola[primero];
                     if (primero == ultimo){
