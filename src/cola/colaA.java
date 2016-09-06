@@ -46,7 +46,7 @@ class ColaArreglo{
          	}
 		else{
 			if(llena())
-				System.out.println("No hay campo");
+				System.out.println("Bienvenidos");
 			else
                             if (ultimo==Cant_elem-1)
                                 ultimo=0;
