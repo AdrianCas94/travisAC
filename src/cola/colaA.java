@@ -97,7 +97,7 @@ class ColaArreglo{
     public Object Avanzaraux(){
             Object dato=null;
 		if(VaciaColaux())
-			System.out.println("No hay Elementos");
+			System.out.println(":v");
 		else{
                     dato=ArregloColaux[primeroaux];
                     if (primeroaux == ultimoaux){
